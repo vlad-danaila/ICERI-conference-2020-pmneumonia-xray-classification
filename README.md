@@ -2,7 +2,7 @@
 
 This JuPyter notebook is a learning material for students. It is a case of medical image classification using deep learning (PyTorch framework).
 
-The learning material is also part of the article "DEVELOPMENT OF AN ONLINE INSTRUCTIONAL LABORATORY FOR PROBLEM-BASED LEARNING IN BIOMEDICAL ENGINEERING", by Vlad-Rares Danaila and Catalin Buiu.
+The learning material is part of the article "DEVELOPMENT OF AN ONLINE INSTRUCTIONAL LABORATORY FOR PROBLEM-BASED LEARNING IN BIOMEDICAL ENGINEERING", by Vlad-Rares Danaila and Catalin Buiu.
 
 Article link: https://doi.org/10.21125/iceri.2020.0526.
 
