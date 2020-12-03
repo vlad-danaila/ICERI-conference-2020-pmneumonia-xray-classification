@@ -8,10 +8,10 @@ Article link: https://doi.org/10.21125/iceri.2020.0526.
 
 If using it, please cite acordingly.
 
-Plain text citation:
+Plain text citation:\n
 V.R. Dănăilă, C. Buiu (2020) DEVELOPMENT OF AN ONLINE INSTRUCTIONAL LABORATORY FOR PROBLEM-BASED LEARNING IN BIOMEDICAL ENGINEERING, ICERI2020 Proceedings, pp. 2199-2206.
 
-BibText citation:
+BibText citation:\n
 @InProceedings{DANAILA2020DEV,
 author = {Dănăilă, V.R. and Buiu, C.},
 title = {DEVELOPMENT OF AN ONLINE INSTRUCTIONAL LABORATORY FOR PROBLEM-BASED LEARNING IN BIOMEDICAL ENGINEERING},
@@ -27,7 +27,7 @@ month = {9-11 November, 2020},
 year = {2020},
 pages = {2199-2206}}
 
-RIS citation:
+RIS citation:\n
 TY - CONF
 AU - V.R. Dănăilă AU - C. Buiu
 TI - DEVELOPMENT OF AN ONLINE INSTRUCTIONAL LABORATORY FOR PROBLEM-BASED LEARNING IN BIOMEDICAL ENGINEERING
